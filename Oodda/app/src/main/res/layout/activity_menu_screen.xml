@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/root"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:gravity="center"
+    android:background="@drawable/fifth"
+    android:orientation="vertical"
+    tools:context="com.punjabi.oodda.Menu_Screen">
+
+
+        <LinearLayout
+            android:id="@+id/linear_gurmukhi"
+            android:layout_width="120dp"
+            android:layout_height="120dp"
+            android:layout_marginRight="70dp"
+            android:background="@drawable/circle_green"
+            android:gravity="center">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="gurmukhi"
+                android:textAllCaps="true"
+                android:textColor="@color/white"
+                android:textSize="@dimen/all_heading_text" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/linear_alphabet"
+            android:layout_width="120dp"
+            android:layout_gravity="center"
+            android:layout_height="120dp"
+            android:layout_marginLeft="70dp"
+            android:background="@drawable/circle"
+            android:gravity="center">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="alphabets \n chat"
+                android:textAlignment="center"
+                android:textAllCaps="true"
+                android:textColor="@color/white"
+                android:textSize="@dimen/all_heading_text" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/linear_vowels"
+            android:layout_width="120dp"
+            android:layout_height="120dp"
+            android:layout_marginRight="70dp"
+            android:background="@drawable/circle_purple"
+            android:gravity="center">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="vowels  consonants"
+                android:textAlignment="center"
+                android:textAllCaps="true"
+                android:textColor="@color/white"
+                android:textSize="@dimen/all_heading_text" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/linear_matras"
+            android:layout_width="120dp"
+            android:layout_height="120dp"
+            android:layout_gravity="center"
+            android:layout_marginLeft="70dp"
+            android:background="@drawable/circle_four"
+            android:gravity="center">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="punjabi \n matras"
+                android:textAlignment="center"
+                android:textAllCaps="true"
+                android:textColor="@color/white"
+                android:textSize="@dimen/all_heading_text" />
+        </LinearLayout>
+
+</LinearLayout>

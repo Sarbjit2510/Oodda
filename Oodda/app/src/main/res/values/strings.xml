@@ -1,0 +1,261 @@
+<resources>
+    <string name="app_name">Oodda</string>
+
+    <string-array name="alphatbet">
+        <item>ਓ</item>
+        <item>ਅ</item>
+        <item>ੲ</item>
+        <item>ਸ</item>
+        <item>ਹ</item>
+        <item>ਕ</item>
+        <item>ਖ</item>
+        <item>ਗ</item>
+        <item>ਘ</item>
+        <item>ਙ</item>
+        <item>ਚ</item>
+        <item>ਛ</item>
+        <item>ਜ</item>
+        <item>ਝ</item>
+        <item>ਞ</item>
+        <item>ਟ</item>
+        <item>ਠ</item>
+        <item>ਡ</item>
+        <item>ਢ</item>
+        <item>ਣ</item>
+        <item>ਤ</item>
+        <item>ਥ</item>
+        <item>ਦ</item>
+        <item>ਧ</item>
+        <item>ਨ</item>
+        <item>ਪ</item>
+        <item>ਫ</item>
+        <item>ਬ</item>
+        <item>ਭ</item>
+        <item>ਮ</item>
+        <item>ਯ</item>
+        <item>ਰ</item>
+        <item>ਲ</item>
+        <item>ਵ</item>
+        <item>ੜ</item>
+        <item>ਸ਼</item>
+        <item>ਖ਼</item>
+        <item>ਗ਼</item>
+        <item>ਜ਼</item>
+        <item>ਫ਼</item>
+
+    </string-array>
+
+    <string-array name="vowel">
+        <item>ਅ</item>
+        <item>ਆ</item>
+        <item>ਇ</item>
+        <item>ਈ</item>
+        <item>ਉ</item>
+        <item>ਊ</item>
+        <item>ਏ</item>
+        <item>ਐ</item>
+        <item>ਓ</item>
+        <item>ਔ</item>
+        <item>ਅੰ</item>
+        <item>ਆੰ</item>
+    </string-array>
+
+    <string-array name="matras">
+        <item>ੀ </item> //Bihari (ਬਿਹਾਰੀ) 
+        <item>ੋ </item>//Horaa (ਹੋੜਾ)
+        <item>ਾ </item>//Kannaa  (ਕੰਨਾ)
+        <item>ੰ </item>//Tippee (ਟਿੱਪੀ)
+        <item>ੁ </item> //Aunkar (ਔਕੜ)
+        <item>ੌ </item>//Kanauraa (ਕਨੌੜਾ) 
+        <item>ੈ </item> //Dulaavan (ਦੁਲਾਵਾਂ)
+		 <item>ੱ </item>//Adhak (ਅਧਕ)
+        <item>ੇ </item> //Laavan (ਲਾਵਾਂ) 
+        <item>ੈ</item>//Dulankar (ਦੂਲੈ) 
+		 <item>ਿ</item>// Sihari (ਸਿਹਾਰੀ)
+    </string-array>
+
+
+    <string-array name="example_one">
+
+        <item>ਊਠ</item>
+        <item>ਅੱਖ</item>
+        <item>ਇੱਟ</item>
+        <item>ਸਲੇਟ</item>
+        <item>ਹਾਥੀ</item>
+        <item>ਕਬੂਤਰ</item>
+        <item>ਖੀਰ</item>
+        <item>ਗਮਲਾ</item>
+        <item>ਘਰ</item>
+        <item>ਕੰਙਣ</item>
+        <item>ਚਮਚਾ</item>
+        <item>ਛੱਤਰੀ</item>
+        <item>ਜਵਾਨ</item>
+        <item>ਝੰਡਾ</item>
+        <item>ਞ</item>
+        <item>ਟਮਾਟਰ</item>
+        <item>ਠੇਲਾ</item>
+        <item>ਡੱਡੂ</item>
+        <item>ਢੋਂਲ</item>
+        <item>ਕਣਕ</item>
+        <item>ਤੱਕੜੀ</item>
+        <item>ਥੈਲਾ</item>
+        <item>ਦਵਾਤ</item>
+        <item>ਧਾਗਾ</item>
+        <item>ਨਲਕਾ</item>
+        <item>ਪਤੰਗ</item>
+        <item>ਫਲ਼</item>
+        <item>ਬਿੱਲੀ</item>
+        <item>ਭੇਡ</item>
+        <item>ਮੱਛੀ</item>
+        <item>ਯੱਕਾ</item>
+        <item>ਰੇਲ</item>
+        <item>ਲੂੰਬੜੀ</item>
+        <item>ਵੇਲਣਾ</item>
+        <item>ਸੜਕ</item>
+        <item>ਸ਼ੇਰ</item>
+        <item>ਖ਼ਰਗੋਸ਼</item>
+        <item>ਗ਼ੁਬਾਰਾ</item>
+        <item>ਜ਼ਮੀਨ</item>
+        <item>ਫ਼ਰਸ਼</item>
+
+    </string-array>
+
+    <string-array name="example_two">
+
+        <item>ਉੱਨ</item>
+        <item>ਅਨਾਰ</item>
+        <item>ਇੱਲ</item>
+        <item>ਸੇਬ</item>
+        <item>ਹੱਥ</item>
+        <item>ਕਲਮ</item>
+        <item>ਖੇਤ</item>
+        <item>ਗੁੜ</item>
+        <item>ਘੜੀ</item>
+        <item>ਙ</item>
+        <item>ਚਰਖਾ</item>
+        <item>ਛੱਜ</item>
+        <item>ਜਹਾਜ਼</item>
+        <item>ਝਾੜੂ</item>
+        <item>ਞ</item>
+        <item>ਟੋਪੀ</item>
+        <item>ਠੋਡੀ</item>
+        <item>ਡਮਰੂ</item>
+        <item>ਢਾਡੀ</item>
+        <item>ਪਾਣੀ</item>
+        <item>ਤੋਤਾ</item>
+        <item>ਥੰਮ</item>
+        <item>ਦਵਾਈ</item>
+        <item>ਧੋਬੀ</item>
+        <item>ਨਿੰਬੂ</item>
+        <item>ਪਾਣੀ</item>
+        <item>ਫੁੱਲ</item>
+        <item>ਬਾਂਦਰ</item>
+        <item>ਭਿੰਡੀ</item>
+        <item>ਮੋਰ</item>
+        <item>ਯੋਗਾ</item>
+        <item>ਰੋਟੀ</item>
+        <item>ਲੱਕੜ</item>
+        <item>ਵੰਗ</item>
+        <item>ਖਿੜਕੀ</item>
+        <item>ਸ਼ੀਸ਼ਾ</item>
+        <item>ਖ਼ਤ</item>
+        <item>ਗ਼ਲੀਚਾ</item>
+        <item>ਜ਼ੇਵਰ</item>
+        <item>ਫ਼ਤਿਹ</item>
+
+    </string-array>
+
+
+    <string-array name="example_three">
+
+        <item>ਉੱਲੂ</item>
+        <item>ਅੰਬ</item>
+        <item>ਇਮਲੀ</item>
+        <item>ਸੰਤਰਾ</item>
+        <item>ਹਾਕੀ</item>
+        <item>ਕੁਰਸੀ</item>
+        <item>ਖੋਤਾ</item>
+        <item>ਗੁਲਾਬ</item>
+        <item>ਘੋੜਾ</item>
+        <item>ਙ</item>
+        <item>ਚੂਹਾ</item>
+        <item>ਛੱਤ</item>
+        <item>ਜਰਾਬ</item>
+        <item>ਝਰਨਾ</item>
+        <item>ਞ</item>
+        <item>ਟੀਕਾ</item>
+        <item>ਠੇਂਗਾ</item>
+        <item>ਡਾਂਗ</item>
+        <item>ਢੱਕਣ</item>
+        <item>ਕਾਣਾ</item>
+        <item>ਤਲਵਾਰ</item>
+        <item>ਥਰਮਸ</item>
+        <item>ਦੁੱਧ</item>
+        <item>ਧਨ</item>
+        <item>ਨੱਕ</item>
+        <item>ਪੀਂਘ</item>
+        <item>ਫੁਲਕਾ</item>
+        <item>ਬੱਤਖ</item>
+        <item>ਭਾਲੂ</item>
+        <item>ਮੁੱਛ</item>
+        <item>ਯਾਤਰੀ</item>
+        <item>ਰਾਜਾ</item>
+        <item>ਲੜਕੀ</item>
+        <item>ਵਹੁਟੀ</item>
+        <item>ਥੜਾ</item>
+        <item>ਸ਼ਲਗਮ</item>
+        <item>ਖ਼ਰਬੂਜਾ</item>
+        <item>ਗ਼ੁਲੇਲ</item>
+        <item>ਜ਼ਖਮ</item>
+        <item>ਫ਼ਕੀਰ</item>
+
+    </string-array>
+
+    <string-array name="example_four">
+
+        <item>ਉਂਗਲ</item>
+        <item>ਆਕਾਸ਼</item>
+        <item>ਇਸਤਰੀ</item>
+        <item>ਸਪੇਰਾ</item>
+        <item>ਹਲ਼</item>
+        <item>ਕਾਰ</item>
+        <item>ਖਰਗੋਸ਼</item>
+        <item>ਗਾਜਰ</item>
+        <item>ਘੜਾ</item>
+        <item>ਙ</item>
+        <item>ਚਿੜੀ</item>
+        <item>ਛੱਲੀ</item>
+        <item>ਜੱਗ</item>
+        <item>ਝੂਲਾ</item>
+        <item>ਞ</item>
+        <item>ਟੋਕਰੀ</item>
+        <item>ਠਠੇਰਾ</item>
+        <item>ਡੱਬਾ</item>
+        <item>ਢਿੱਡ</item>
+        <item>ਖਾਣਾ</item>
+        <item>ਤਬਲਾ</item>
+        <item>ਥਾਲ</item>
+        <item>ਦੰਦ</item>
+        <item>ਧਨੀਆ</item>
+        <item>ਨਦੀ</item>
+        <item>ਪਪੀਤਾ</item>
+        <item>ਫੁੱਟਬਾਲ</item>
+        <item>ਬਰਤਨ</item>
+        <item>ਭਗਤ</item>
+        <item>ਮਟਰ</item>
+        <item>ਯਮਰਾਜ</item>
+        <item>ਰੁਮਾਲ</item>
+        <item>ਲੜਕਾ</item>
+        <item>ਵਾਜਾ</item>
+        <item>ਲੜਕਾ</item>
+        <item>ਸ਼ਹਿਦ</item>
+        <item>ਖ਼ਬਰ</item>
+        <item>ਗ਼ਰੀਬ</item>
+        <item>ਜ਼ਹਿਰ</item>
+        <item>ਫ਼ੌਜੀ</item>
+
+    </string-array>
+
+
+
+</resources>
